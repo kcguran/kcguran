@@ -1,7 +1,7 @@
 ## Merhaba Ben Kerem👋
 <div display="inline-block">
-<img width="300" src="https://github-readme-stats.vercel.app/api?username=kcguran&show_icons=true&theme=radical" />
-<img width="300" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcguran&layout=compact" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=kcguran&show_icons=true&theme=radical" />
+<img width="450" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcguran&layout=compact" />
 </div>
 
 📐Languages and Tools
