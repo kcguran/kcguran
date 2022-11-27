@@ -1,4 +1,4 @@
-## Merhaba Ben Kerem👋
+<h1 align="center">Hi there 👋</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&duration=4000&pause=1000&color=A77BF7&center=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" /></a>
 
@@ -8,7 +8,6 @@
 </div>
 
 📐Languages and Tools
-<br>
 
 <div>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
@@ -25,6 +24,11 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
+
+📐CI & CD
+<div>
+
 </div>
 
 
