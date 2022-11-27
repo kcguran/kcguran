@@ -1,6 +1,6 @@
 ## Merhaba Ben Kerem👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&duration=4000&pause=1000&color=A77BF7&center=true&width=435&lines=Now%3A+Student+of+computer+engineering;Coming+soon%3A+Front-end+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&duration=4000&pause=1000&color=A77BF7&center=true&width=435&lines=Full+Stack+Developer+Software+Engineer" alt="Typing SVG" /></a>
 
 
  <div display="inline-block">
