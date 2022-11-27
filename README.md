@@ -1,10 +1,9 @@
 ## Merhaba Ben Kerem👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&duration=4000&pause=1000&color=A77BF7&center=true&width=435&lines=Full+Stack+Developer+Software+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&duration=4000&pause=1000&color=A77BF7&center=true&width=435&lines=Full+Stack+Developer;Software+Engineer" alt="Typing SVG" /></a>
 
 
  <div display="inline-block">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=kcguran&show_icons=true&theme=radical" />
   <img width="420" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcguran&layout=compact" />
 </div>
 
